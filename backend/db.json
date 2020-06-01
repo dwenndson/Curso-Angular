@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC PRETA",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Gamer PC",
+      "price": 5999.99
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi Redmi note 9s",
+      "price": 1569.99
+    },
+    {
+      "name": "Teste",
+      "price": 1.99,
+      "id": 5
+    },
+    {
+      "name": "Novo Produto",
+      "price": 1999,
+      "id": 6
+    }
+  ]
+}
